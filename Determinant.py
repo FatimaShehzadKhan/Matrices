@@ -1,7 +1,7 @@
 #hardquoting values of rows and columns
 mat_1=[]
-rows = 2
-cols = 2
+rows = 3
+cols = 3
 for i in range(rows):
     mat_1.append([0]*cols)
 
