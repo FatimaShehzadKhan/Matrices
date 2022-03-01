@@ -1,7 +1,7 @@
-# According to user
+#hardquoting values of rows and columns
 mat_1=[]
-rows = int(input("Enter the no of rows "))
-cols = int(input("Enter the no of columns "))
+rows = 2
+cols = 2
 for i in range(rows):
     mat_1.append([0]*cols)
 
